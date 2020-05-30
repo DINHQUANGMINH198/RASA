@@ -1,0 +1,141 @@
+## intent:give_name
+- [Anh](cust_sex:anh) là [Minh](cust_name)
+- [Anh](cust_sex:anh) là [Mạnh](cust_name)
+- [Anh](cust_sex:anh) là [Hoàng](cust_name)
+- [Anh](cust_sex:anh) là [Tài](cust_name)
+- [Anh](cust_sex:anh) là [Huy](cust_name)
+- [Anh](cust_sex:anh) là [Quang Minh](cust_name)
+- [Anh](cust_sex) tên là [Đinh Quang Minh](cust_name)
+- [Chị](cust_sex:anh) là [Hằng](cust_name)
+- [Chị](cust_sex:anh) là [Hoa](cust_name)
+- [Chị](cust_sex:anh) là [Linh](cust_name)
+- [Chị](cust_sex:anh) là [Huyền](cust_name)
+- [Chị](cust_sex:anh) là [Hằng](cust_name)
+- [Em](cust_sex:bạn) là [Trang](cust_name)
+- [Cô](cust_sex:cô) [Vân](cust_name)
+- [Chú](cust_sex:chú) [Hùng](cust_name)
+- [Anh](cust_sex:anh) tên [Minh](cust_name)
+- [Bác](cust_sex:bác) là [Thanh](cust_name)
+- [Anh](cust_sex:anh) tên [Phan](cust_nname)
+- [anh](cust_sex:anh) tên [Minh](cust_name)
+- [tôi](cust_sex:bạn) tên [Phan](cust_name)
+- [Tôi](cust_sex:bạn) tên [Phan](cust_name)
+- [tôi](cust_sex:bạn) tên [Phạm Công Phan](cust_name)
+- [tao](cust_sex:bạn) tên [Phạm Công Phan](cust_name)
+- [anh](cust_sex:anh) là [Đinh Quang Minh](cust_name)
+- [Anh](cust_sex:anh) là [Đinh Quang Minh](cust_name)
+- [anh](cust_sex:anh) tên [Minh](cust_name)
+- [Mình](cust_sex:anh) tên [Minh](cust_name)
+- [mình](cust_sex:anh) tên [Minh](cust_name)
+- [tao](cust_sex:anh) tên [Hải](cust_name)
+- [tớ](cust_sex:bạn) tên [Nam](cust_name)
+- [Tớ](cust_sex:bạn) tên [Huy](cust_name)
+## intent:ask_lottery
+- Cho anh xem kết quả đê
+- Kết quả số xố hôm này thế nào
+- Mày cho anh hỏi kết quả tý
+- Có kết quả chưa
+- kết quả XSMB
+- XSMB
+## intent:greet
+- xin chào
+- chào bạn
+- hello
+- hi
+- hey
+- mình có vài câu hỏi
+- có ai giúp mình không
+- bạn ơi
+- anh ơi
+- chị ơi
+- cháu ơi
+- hello 
+- chào 
+- hi 
+- có ai ở đây không?
+
+## intent:bye
+- tạm biệt
+- chào tạm biệt
+- chào tạm biệt em
+- tạm biệt em
+- tạm biệt em nhé
+## intent:thank
+- chuẩn
+- hay
+- siêu
+- tuyệt
+- cám ơn
+- thanks
+- thank you
+- ok
+- cảm ơn em
+- cảm ơn em nhiều nhé
+- cảm ơn
+
+## intent:ask_func_list
+- bạn có thể làm được những gì
+- bạn giúp được gì nào
+- chức năng của bạn là gì
+- bạn có thể làm được mấy chức năng
+- bạn giỏi nhất làm gì
+- bạn có tư vấn giúp mình được không
+- việc gì bạn làm được
+- kể xem bạn làm được gì
+- cho mình biết bạn làm được gì nhé
+- bạn hữu dụng như thế nào
+- bạn có ích trong những việc gì
+- lĩnh vực gì bạn giỏi nhất
+- mình tò mò về những việc bạn làm được
+- chẳng biết bạn làm được gì
+- bạn tệ nhất trong việc gì
+- bạn biết được những lĩnh vực gì
+- bạn giỏi hỗ trợ nhất trong lĩnh vực gì
+- kể cho mình biết những việc bạn có thể làm được nhé
+- nói cho mình về những việc bạn giúp được mình
+- bạn giúp được mình gì nào
+- bạn có thể làm gì
+- em giúp được gì
+- em làm được gì
+- mày biết làm gì
+- em biết làm gì
+- bạn biết làm gì
+- biết làm gì
+- làm được gì 
+- có làm được gì 
+- có làm được trò gì 
+- giúp giúp cái gì
+- biết gì mà nói
+- làm được gì
+- giúp được gì
+- mày làm được gì
+- có biết gì 
+
+## intent:ask_name
+- bạn tên gì
+- tên gì
+- chị tên gì
+- anh tên gì
+- tên của bạn là gì
+- tên của chị là gì
+- tên của anh là gì
+- cho mình hỏi tên nhé
+- mình muốn biết tên bạn
+- mình muốn tiện xưng hộ hơn, cho mình biết tên nhé
+- để tiện xưng hộ thì tên bạn là gì
+- cho em xin tên của anh ạ
+- cho em xin tên của chị ạ
+- được biết tên bạn thì tốt nhỉ
+- vui lòng cho mình biết tên nhé
+- xin phép hỏi tên của bạn
+- vậy thì tên bạn là gì
+- tên bạn trong tiếng việt là gì
+- bạn có vui lòng cho mình biết tên được không
+- chúng ta nên biết tên nhau nhỉ?
+- em tên là gì thế
+- tên em là gì
+- tên em 
+- tên bạn 
+- bạn tên là gì 
+- bạn tên gì thế
+- em tên gì
